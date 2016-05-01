@@ -175,7 +175,7 @@ def usage():
         9: Traffic Morphing
         (default 0)
 
-    -t [int]: number of trials to run per experiment (default 1)
+    -n [int]: number of trials to run per experiment (default 1)
 
     -t [int]: number of training traces to use per experiment (default 16)
 
